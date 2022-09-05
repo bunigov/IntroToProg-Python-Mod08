@@ -1,0 +1,4 @@
+Lamp,10.5
+Table,202.3
+Shade,17.0
+Second Light,97.0
